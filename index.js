@@ -2,7 +2,7 @@ const fs = require("fs");
 const os = require("os");
 const path = require("path");
 const http = require("http");
-console.log('hello')
+
 // let server = http.createServer((req, res) => {
 //     res.write("hello world");
 
